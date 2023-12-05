@@ -1,0 +1,23 @@
+.navbar {
+  width: 100vw;
+  height: 10%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  top: 0;
+  font-size: large;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+/* styling for the button in the navbar */
+.navbar .actbtn {
+  background-color: rgb(81, 74, 80);
+  color: white;
+  border: 1px solid white;
+  border-radius: 0.3rem;
+  font-weight: bold;
+}
